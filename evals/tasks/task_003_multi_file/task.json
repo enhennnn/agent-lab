@@ -1,0 +1,5 @@
+{
+  "id": "task_003_multi_file",
+  "name": "跨文件修复",
+  "instruction": "app.py 导入了不存在的 sub，并且 main.py 的 add 函数实现有误。请修改这两个文件，让 pytest 通过。"
+}

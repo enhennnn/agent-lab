@@ -1,0 +1,5 @@
+{
+  "id": "task_001_fix_typo",
+  "name": "修复加法 bug",
+  "instruction": "请修复 main.py 中的 bug，让 pytest 通过。不要修改 test_main.py。"
+}

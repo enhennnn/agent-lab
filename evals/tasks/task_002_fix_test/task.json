@@ -1,0 +1,5 @@
+{
+  "id": "task_002_fix_test",
+  "name": "修复错误断言",
+  "instruction": "test_main.py 中有一个错误的断言。请修复这个测试文件，让 pytest 通过。"
+}
